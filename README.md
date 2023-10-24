@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **brainsfoft**
 
-- 🌱 I’m currently learning **HTML,CSS💖,JS,PHP,LARAVEL,VUE,JAVA**
+- 🌱 I’m currently learning **HTML,CSS**
 
 - 👯 I’m looking to collaborate on **ikhsanadrians**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raya46?tab=repositories](https://github.com/Raya46?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS💖**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **muhammadrayaarrizki@gmail.com**
 
