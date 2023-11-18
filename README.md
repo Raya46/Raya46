@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raya46&label=Profile%20views&color=0e75b6&style=flat" alt="raya46" /> </p>
 
-- 🔭 I’m currently working on **brainsfoft**
-
-- 🌱 I’m currently learning **HTML,CSS**
-
-- 👯 I’m looking to collaborate on **ikhsanadrians**
-
-- 🤝 I’m looking for help with **farisMaulana**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Raya46?tab=repositories](https://github.com/Raya46?tab=repositories)
-
-- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **muhammadrayaarrizki@gmail.com**
 
